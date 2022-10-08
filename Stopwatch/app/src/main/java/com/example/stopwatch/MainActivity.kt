@@ -52,6 +52,19 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    override fun onStop() {
+        super.onStop()
+        offset=SystemClock.elapsedRealtime()-timer.base
+        timer.stop()
+    }
+
+    override fun onRestart() {
+        super.onRestart()
+        if(status){
+            timer.base=SystemClock.elapsedRealtime()-offset
+            timer.start()
+        }
+    }
     override fun onSaveInstanceState(saveState:Bundle){
         super.onSaveInstanceState(saveState)
         saveState.putLong("offset_key",offset)
