@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser 2.0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome Choose Beer Color</string>
+    <string name="select">Select</string>
+    <string-array name="beer_color">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+    </string-array>
+</resources>
