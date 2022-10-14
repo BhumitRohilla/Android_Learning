@@ -9,8 +9,4 @@
     <item android:title="Sent Item"
         android:id="@+id/sentItemFragment"
         android:icon="@android:drawable/ic_menu_send"/>
-    <item android:title="Help"
-        android:icon="@android:drawable/ic_menu_help"
-        android:id="@+id/helpFragment"
-        />
 </menu>
