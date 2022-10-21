@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.3.1" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="attr[colorPrimaryVariant(R)],color[purple_200(U),black(U),teal_200(U),white(U),teal_700(U),purple_700(U),purple_500(U)],drawable[ic_launcher_foreground(U),ic_launcher_background(U),ic_launcher_foreground_1(R)],id[gameFragment(U),nav_graph(D),resultFragment(U),action_gameFragment_to_resultFragment2(R),action_resultFragment_to_gameFragment3(R),fragmentContainerView(U)],layout[fragment_game(U),activity_main(U),fragment_result(U)],mipmap[ic_launcher_round(U),ic_launcher(U)],navigation[nav_graph(U)],string[app_name(U),hello_blank_fragment(U)],style[Theme_GuessingGame(U),Theme_MaterialComponents_DayNight_DarkActionBar(R)],xml[data_extraction_rules(U),backup_rules(U)];8^a,11^18,12^16,13^18,14^9^8,15^9^8,16^b^11^d^13,19^1a^7^6^4^3^5^2^0^1;;;"/>
+    </map>
+
+</incidents>
