@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.guessinggame.app-mergeDebugResources-44:/layout/fragment_result.xml",
+        "source": "com.example.guessinggame.app-main-47:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "com.example.guessinggame.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.guessinggame.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.guessinggame.app-mergeDebugResources-44:/layout/fragment_game.xml",
+        "source": "com.example.guessinggame.app-main-47:/layout/fragment_game.xml"
+    }
+]
