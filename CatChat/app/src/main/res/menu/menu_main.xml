@@ -8,5 +8,6 @@
         android:icon="@android:drawable/ic_dialog_email"/>
     <item android:title="Sent Item"
         android:id="@+id/sentItemFragment"
+        app:showAsAction="always"
         android:icon="@android:drawable/ic_menu_send"/>
 </menu>
